@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-bitpvp-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bitpvp)
+[![Discord](https://img.shields.io/badge/Discord-bitpvp-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/830107887740125215)
 [![GitHub](https://img.shields.io/badge/GitHub-heyyvic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyyvic)
 [![Location](https://img.shields.io/badge/Mexico-🇲🇽-green?style=for-the-badge)](https://github.com/heyyvic)
 
@@ -115,5 +115,5 @@ var vic = Developer{
 ---
 
 <div align="center">
-<sub>Omar G./sub>
+<sub>Omar G.</sub>
 </div>
