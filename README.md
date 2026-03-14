@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-bitpvp-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/830107887740125215)
+[![Discord](https://img.shields.io/badge/Discord-victualler-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/830107887740125215)
 [![GitHub](https://img.shields.io/badge/GitHub-heyyvic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyyvic)
 [![Location](https://img.shields.io/badge/Mexico-🇲🇽-green?style=for-the-badge)](https://github.com/heyyvic)
 
@@ -24,8 +24,8 @@
 **ES** — Soy Omar, developer autodidacta de México con **más de 4 años de experiencia** construyendo plugins, bots y sistemas backend. Me especializo en desarrollo para PocketMine-MP (PHP), bots de Discord con discord.js, y Go para backends de alto rendimiento.
 
 ```go
-var vic = Developer{
-    Name:       "Vic (heyyvic)",
+var omar = Developer{
+    Name:       "Omar (heyyvic)",
     Location:   "Mexico 🇲🇽",
     Experience: "4+ years",
     OpenTo:     []string{"Freelance", "Plugin commissions", "Bot dev", "Collabs"},
